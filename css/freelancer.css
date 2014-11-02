@@ -12,7 +12,7 @@
     width:300px;
     height: 300px;
     border-radius:50%;
-    background-image:url("../img/profile.png");
+    
     display:block;
     background-position-y:25%
 }
