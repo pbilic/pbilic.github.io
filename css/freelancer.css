@@ -419,17 +419,17 @@ section.success {
     max-height: auto;
     float: left;
     margin: 0px;
-    padding: 5px;
+    padding: 0px;
 }
 
 #portfolio .portfolio-item .portfolio-link {
-    max-width: 100%;
+    max-width: 80%;
     height: auto;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption {
     position: absolute;
-    width: 100%;
+    width: 80%;
     height: 100%;
     opacity: 0.3;
     background: rgba(24,188,156,.9);
