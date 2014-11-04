@@ -414,8 +414,8 @@ section.success {
     margin: 0 auto;
     max-width: 400px;
     */
-    width: 120px;
-    min-height: 120px;
+    width: 100px;
+    min-height: 260px;
     max-height: auto;
     float: left;
     margin: 3px;
