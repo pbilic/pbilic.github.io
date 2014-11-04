@@ -419,7 +419,7 @@ section.success {
     max-height: auto;
     float: left;
     margin: 3px;
-    padding: 3px;
+    padding: 0px;
 }
 
 #portfolio .portfolio-item .portfolio-link {
@@ -449,7 +449,7 @@ section.success {
     height: 20px;
     margin-top: -12px;
     text-align: center;
-    font-size: 20px;
+    font-size: 22px;
     color: #fff;
 }
 
