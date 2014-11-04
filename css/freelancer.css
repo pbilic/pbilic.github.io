@@ -423,13 +423,13 @@ section.success {
 }
 
 #portfolio .portfolio-item .portfolio-link {
-    max-width: 80%;
+    max-width: 90%;
     height: auto;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption {
     position: absolute;
-    width: 80%;
+    width: 90%;
     height: 100%;
     opacity: 0.3;
     background: rgba(24,188,156,.9);
