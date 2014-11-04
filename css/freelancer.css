@@ -395,12 +395,12 @@ section.success {
 /*
      Portfolio classes
 */
+
+
+
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
-    width: 360px;
-    height: 260px;
-    object-fit: cover;
 }
 
 #portfolio {
@@ -408,10 +408,23 @@ section.success {
 }
 
 #portfolio .portfolio-item .portfolio-link {
+    /*
     display: block;
     position: relative;
     margin: 0 auto;
     max-width: 400px;
+    */
+    width: 120px;
+    min-height: 120px;
+    max-height: auto;
+    float: left;
+    margin: 3px;
+    padding: 3px;
+}
+
+#portfolio .portfolio-item .portfolio-link {
+    max-width: 100%;
+    height: auto;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption {
@@ -448,6 +461,7 @@ section.success {
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h4 {
     margin: 0;
 }
+
 
 #portfolio * {
     z-index: 2;
